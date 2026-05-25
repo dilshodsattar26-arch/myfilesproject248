@@ -1,0 +1,8 @@
+{
+    "name": "appmodel-service",
+    "version": "1.0.248",
+    "private": false,
+    "environment": "production",
+    "build_id": 665,
+    "allow_public_access": true
+}
